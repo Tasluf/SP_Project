@@ -1,3 +1,107 @@
 <resources>
     <string name="app_name">Demo</string>
+
+    <string-array name="headerString">
+        <item>AAA</item>
+        <item>BBB</item>
+        <item>CCC</item>
+        <item>DDD</item>
+        <item>EEE</item>
+        <item>FFF</item>
+        <item>GGG</item>
+        <item>AAA</item>
+        <item>BBB</item>
+        <item>CCC</item>
+        <item>DDD</item>
+        <item>EEE</item>
+        <item>FFF</item>
+        <item>GGG</item>
+    </string-array>
+
+    <string-array name="childString">
+        <item>
+            Lorem Ipsum is simply
+            \ndummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an
+            \nIt is a long established fact that a reader will be distracted by the
+        </item>
+
+        <item>
+            Lorem Ipsum is simply
+            \ndummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an
+            \nIt is a long established fact that a reader will be distracted by the
+        </item>
+
+        <item>
+            Lorem Ipsum is simply
+            \ndummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an
+            \nIt is a long established fact that a reader will be distracted by the
+        </item>
+
+        <item>
+            Lorem Ipsum is simply
+            \ndummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an
+            \nIt is a long established fact that a reader will be distracted by the
+        </item>
+
+        <item>
+            Lorem Ipsum is simply
+            \ndummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an
+            \nIt is a long established fact that a reader will be distracted by the
+        </item>
+
+        <item>
+            Lorem Ipsum is simply
+            \ndummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an
+            \nIt is a long established fact that a reader will be distracted by the
+        </item>
+
+        <item>
+            Lorem Ipsum is simply
+            \ndummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an
+            \nIt is a long established fact that a reader will be distracted by the
+        </item>
+
+        <item>
+            Lorem Ipsum is simply
+            \ndummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an
+            \nIt is a long established fact that a reader will be distracted by the
+        </item>
+
+        <item>
+            Lorem Ipsum is simply
+            \ndummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an
+            \nIt is a long established fact that a reader will be distracted by the
+        </item>
+
+        <item>
+            Lorem Ipsum is simply
+            \ndummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an
+            \nIt is a long established fact that a reader will be distracted by the
+        </item>
+
+        <item>
+            Lorem Ipsum is simply
+            \ndummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an
+            \nIt is a long established fact that a reader will be distracted by the
+        </item>
+
+        <item>
+            Lorem Ipsum is simply
+            \ndummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an
+            \nIt is a long established fact that a reader will be distracted by the
+        </item>
+
+        <item>
+            Lorem Ipsum is simply
+            \ndummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an
+            \nIt is a long established fact that a reader will be distracted by the
+        </item>
+
+        <item>
+            Lorem Ipsum is simply
+            \ndummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an
+            \nIt is a long established fact that a reader will be distracted by the
+        </item>
+
+    </string-array>
 </resources>
